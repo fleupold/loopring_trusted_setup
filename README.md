@@ -1,6 +1,6 @@
 # Instructions
 
-This Docker con to run the [Loopring Trusted Setup](https://github.com/Loopring/trusted_setup/blob/master/participants.md). In order to run this docker setup:
+This Docker configuration to run the [Loopring Trusted Setup](https://github.com/Loopring/trusted_setup/blob/master/participants.md). In order to run this docker setup:
 
 1. Create a paper key and a pgp key in your keybase account
 2. Fill in the .env file with your variables
